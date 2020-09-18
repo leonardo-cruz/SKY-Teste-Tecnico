@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cine SKY</string>
+    <string name="movie_name">Nome do filme aqui</string>
+    <string name="selecao">Uma seleção de filme imperdíveis:</string>
+    <string name="erro_details">Não foi possível carregar todos os dados. Tente mais tarde</string>
+    <string name="sinopse">Sinopse do filme</string>
+</resources>
